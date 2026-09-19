@@ -1,16 +1,12 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 
-#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="ANTENNA TV US" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Antenna_TV_logo.png" group-title="Live TV",Antenna TV
-http://nocable.cc:8080/live/g27psZ/919996/20180.m3u8
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="ANTENNA TV US" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Antenna_TV_logo.png" group-title="Live TV",Antenna TV http://nocable.cc:8080/live/g27psZ/919996/20180.m3u8
 
-#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE" tvg-logo="http://primestreamstv.com/logos/awelogo.png" group-title="Live TV",AWE
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE" tvg-logo="http://primestreamstv.com/logos/awelogo.png" group-title="Live TV",AWE https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AWE+" tvg-name="AWE Plus" tvg-logo="https://uspto.report/TM/88923573/mark.png" group-title="Live TV",AWE Plus
-https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+#EXTINF:-1 tvg-id="AWE+" tvg-name="AWE Plus" tvg-logo="https://uspto.report/TM/88923573/mark.png" group-title="Live TV",AWE Plus https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" group-title="Live TV",Bravo
-http://4.30.180.36:8420/bravo/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" group-title="Live TV",Bravo http://4.30.180.36:8420/bravo/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="CatchyComedy.us"" tvg-name="Catchy Comedy" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/decades-1.png" group-title="Live TV",Catchy Comedy
 http://tvmate.icu:8080/live/Jchill/Jchill/20189.m3u8
